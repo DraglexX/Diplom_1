@@ -1,0 +1,47 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+out/
+
+# NetBeans files
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Java class files
+*.class
+
+# Jacoco coverage report
+jacoco.exec
+
+# User-specific files
+*.log
+```
